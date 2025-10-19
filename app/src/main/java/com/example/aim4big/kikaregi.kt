@@ -1,6 +1,4 @@
 package com.example.aim4big
 
-class Adapter {
-
-
+class kikaregi {
 }
